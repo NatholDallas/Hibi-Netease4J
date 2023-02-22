@@ -1,4 +1,4 @@
-package channel.song;
+package com.nathol.hibi.netease.vo;
 
 public enum Br {
 

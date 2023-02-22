@@ -1,4 +1,4 @@
-package util;
+package com.nathol.hibi.netease.util;
 
 @SuppressWarnings("unused")
 public class UrlBuilder {

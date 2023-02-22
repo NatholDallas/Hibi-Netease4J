@@ -1,4 +1,4 @@
-package channel.record;
+package com.nathol.hibi.netease.vo;
 
 public enum Period {
 

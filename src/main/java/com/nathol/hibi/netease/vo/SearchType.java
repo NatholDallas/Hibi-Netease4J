@@ -1,4 +1,4 @@
-package channel.search;
+package com.nathol.hibi.netease.vo;
 
 public enum SearchType {
 
